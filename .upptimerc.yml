@@ -24,7 +24,7 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
   user-agent: sympatent
 
-assignees
+assignees: # Users to assign downtime issues (optional)
   - hrst
 
 # Upptime also supports notifications, assigning issues, and more
