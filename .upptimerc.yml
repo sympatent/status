@@ -19,8 +19,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Sympatent
+      href: https://www.sympatent.com/
+  #  - title: GitHub
+  #    href: https://github.com/$OWNER/$REPO
   robotsText: "User-agent: * \n Disallow: /"
   user-agent: sympatent
 
