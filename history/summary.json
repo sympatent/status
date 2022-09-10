@@ -4,17 +4,17 @@
     "url": "https://app.sympatent.com/",
     "icon": "https://favicons.githubusercontent.com/app.sympatent.com",
     "slug": "sympatent-application",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 813,
-    "timeDay": 685,
-    "timeWeek": 815,
-    "timeMonth": 810,
-    "timeYear": 813,
+    "time": 816,
+    "timeDay": 810,
+    "timeWeek": 842,
+    "timeMonth": 818,
+    "timeYear": 816,
     "dailyMinutesDown": {}
   }
 ]
