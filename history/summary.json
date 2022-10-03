@@ -2,7 +2,7 @@
   {
     "name": "Sympatent Application",
     "url": "https://app.sympatent.com/",
-    "icon": "https://favicons.githubusercontent.com/app.sympatent.com",
+    "icon": "https://icons.duckduckgo.com/ip3/app.sympatent.com.ico",
     "slug": "sympatent-application",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 1333,
-    "timeWeek": 846,
-    "timeMonth": 786,
-    "timeYear": 808,
+    "time": 813,
+    "timeDay": 1313,
+    "timeWeek": 955,
+    "timeMonth": 814,
+    "timeYear": 813,
     "dailyMinutesDown": {}
   }
 ]
