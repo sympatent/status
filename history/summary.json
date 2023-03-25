@@ -4,19 +4,19 @@
     "url": "https://app.sympatent.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.sympatent.com.ico",
     "slug": "sympatent-application",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 883,
-    "timeDay": 664,
-    "timeWeek": 934,
+    "time": 884,
+    "timeDay": 833,
+    "timeWeek": 942,
     "timeMonth": 998,
-    "timeYear": 883,
+    "timeYear": 884,
     "dailyMinutesDown": {
-      "2023-03-25": 0
+      "2023-03-25": 5
     }
   }
 ]
