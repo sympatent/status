@@ -6,17 +6,15 @@
     "slug": "sympatent-application",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 833,
-    "timeWeek": 942,
+    "time": 885,
+    "timeDay": 1144,
+    "timeWeek": 1042,
     "timeMonth": 998,
-    "timeYear": 884,
-    "dailyMinutesDown": {
-      "2023-03-25": 5
-    }
+    "timeYear": 885,
+    "dailyMinutesDown": {}
   }
 ]
