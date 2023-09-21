@@ -1,7 +1,7 @@
 url: https://app.sympatent.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-21T09:45:35.219Z
+status: up
+code: 200
+responseTime: 550
+lastUpdated: 2023-09-21T09:51:28.262Z
 startTime: 2022-07-01T17:51:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
